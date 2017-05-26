@@ -1,0 +1,39 @@
+body {
+	width: 60%;
+	border: 10px solid #DADADA;
+	padding: 10px;
+	margin: 20px auto;
+}
+
+h2 {
+	font-family: 'Noto Serif', serif;
+	color: #010014;
+	margin-bottom: -10px;
+}
+
+.tab {
+	padding-left: 10PX; 
+}
+
+p, .date {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.date {
+	color: #FF0042;
+	margin-bottom: -20px;
+	letter-spacing: 2px;
+}
+
+.post {
+	margin: auto;
+	margin-top: 15px;
+	width: 90%;
+}
+
+.quote {
+	border-left: 5px solid #DADADA;
+	padding-left: 8px;
+}
