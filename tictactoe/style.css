@@ -17,16 +17,12 @@ tr {
 	height: 100px;
 }
 
-.middle .center {
-	border: 1px solid black;
-}
-
-.middle .left, .middle .right {
+.horizontal {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
-.top .center, .bottom .center {
+.vertical {
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
